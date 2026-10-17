@@ -23,7 +23,7 @@ Compilation of SQL, Tableau, PySpark data analysis related projects and challeng
 	+ jupyter notebook
 
 
-# Projects & Challenges
+# Projects & Challenges.
 
 ## [Instagram Clone Project](Instagram%20Clone%20Project)
 MySQL project which is a cloned mimic version of Instagram database. 
